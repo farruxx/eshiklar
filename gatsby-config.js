@@ -16,7 +16,7 @@ module.exports = {
       options: {
         client_id:
           process.env.MOLTIN_CLIENT_ID ||
-          'j6hSilXRQfxKohTndUuVrErLcSJWP15P347L6Im0M4',
+          'QTgCBodnG6DfNBi6xKl5ibGlLcz456l7M97NpRDCNL',
       },
     },
     {
